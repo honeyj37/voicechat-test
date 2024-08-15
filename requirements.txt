@@ -1,4 +1,4 @@
-streamlit==1.18.1
-anthropic==0.2.2
-elevenlabs==0.0.9
-requests==2.28.2
+streamlit==1.37.1
+anthropic==0.33.1
+elevenlabs==1.7.0
+requests==2.32.3
